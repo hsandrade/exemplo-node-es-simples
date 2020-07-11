@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "anoDje": 1,
+        "codigoCaderno": "ABC",
+        "codigoDje": "X",
+        "dataPublicacao": "2020-01-15",
+        "texto": "texto de exemplo para busca no elasticsearch, conteúdo a ser pesquisado com fulltext"
+    },
+    {
+        "id": 2,
+        "anoDje": 1,
+        "codigoCaderno": "GTB",
+        "codigoDje": "A",
+        "dataPublicacao": "2020-02-15",
+        "texto": "O processo 12.444.9999-3 XPTO foi iniciado com teste de busca pelo elasticsearch"
+    },
+    {
+        "id": 3,
+        "anoDje": 2,
+        "codigoCaderno": "OLP",
+        "codigoDje": "S",
+        "dataPublicacao": "2020-01-28",
+        "texto": "Neste dia foi iniciado o teste com a busca e diferentes formas de pesquisa, processo XPTO ABC123"
+    },
+    {
+        "id": 4,
+        "anoDje": 3,
+        "codigoCaderno": "XPTO",
+        "codigoDje": "X",
+        "dataPublicacao": "2020-05-15",
+        "texto": "pesquisando por trechos do texto ou frase exata, com condições adicionais para teste"
+    },
+    {
+        "id": 5,
+        "anoDje": 5,
+        "codigoCaderno": "CXS",
+        "codigoDje": "X",
+        "dataPublicacao": "2020-08-23",
+        "texto": "mais um conteúdo para pesquisa com texto"
+    },
+    {
+        "id": 6,
+        "anoDje": 6,
+        "codigoCaderno": "DDD",
+        "codigoDje": "E",
+        "dataPublicacao": "2020-07-11",
+        "texto": "outro texto do processo 123.4444.8899-9 para pesquisa de teste"
+    },
+    {
+        "id": 7,
+        "anoDje": 1,
+        "codigoCaderno": "1RE",
+        "codigoDje": "X",
+        "dataPublicacao": "2020-01-09",
+        "texto": "texto de exemplo para busca no elasticsearch, conteúdo a ser pesquisado com fulltext repetido 2"
+    },
+    {
+        "id": 8,
+        "anoDje": 1,
+        "codigoCaderno": "LOP",
+        "codigoDje": "Y",
+        "dataPublicacao": "2020-04-15",
+        "texto": "lorem de este do texto de exemplo para busca no elasticsearch, conteúdo a ser pesquisado com fulltext repetido 3"
+    },
+    {
+        "id": 8,
+        "anoDje": 1,
+        "codigoCaderno": "PIO",
+        "codigoDje": "X",
+        "dataPublicacao": "2020-09-17",
+        "texto": "conteúdo para exemplo da busca de teste do réu XPTO"
+    }
+]

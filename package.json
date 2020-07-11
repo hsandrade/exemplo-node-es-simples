@@ -1,0 +1,17 @@
+{
+  "name": "exemplo_node",
+  "version": "1.0.0",
+  "description": "Exemplo simples de uso do ElasticSearch com NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "run": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "elasticsearch": "^16.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.4.0"
+  }
+}
