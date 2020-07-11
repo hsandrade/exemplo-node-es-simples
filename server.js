@@ -13,6 +13,7 @@ const elasticsearch = require('elasticsearch'),
 
     console.log('Conectado.')
 
+    //recria o índice de teste. UTILIZE APENAS EM AMBIENTE LOCAL DE DESENVOLVIMENTO
     await infra.inicializarIndiceTeste(esClient);
 
     //************************************ Exemplo 1  *************************************/
